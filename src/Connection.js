@@ -1,9 +1,12 @@
 import React from "react";
+import { Form } from "react-bootstrap";
 
 const Connection = ()=>{
     return(
         <div>
-            hi there we are connections
+            <Form>
+                
+            </Form>
         </div>
     );
 }
