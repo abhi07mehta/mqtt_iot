@@ -5,7 +5,7 @@ import Messages from "./Messages";
 import Publisher from "./Publisher";
 import Subscriber from "./Subscriber";
 import mqtt from "mqtt/dist/mqtt";
-// import bootstrap from "bootstrap";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const QosOption = createContext([]);
 const qosOption = [
