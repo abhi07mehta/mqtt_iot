@@ -25,7 +25,7 @@ const Subscriber = ({ sub, unSub, getsubscribedTopic, connectStatus }) => {
   return (
     <div>
       <Form>
-        <h2>this is Subscriber section</h2>
+        <h2>This is Subscriber section</h2>
         <Form.Group className="mb-3" controlId="form1">
           <Form.Label>Topic</Form.Label>
           <Form.Control type="text" placeholder="Enter the topic" id="outlined-basic"

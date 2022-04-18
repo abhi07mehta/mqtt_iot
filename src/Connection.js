@@ -41,7 +41,7 @@ const Connection = ({ connect, disconnect, connectBtn }) => {
   return (
     <div>
       <Form>
-        <h2>this is Connection</h2>
+        <h2>This is Connection</h2>
         <Form.Group className="mb-3" controlId="form1">
           <Form.Label>Host</Form.Label>
           <Form.Control

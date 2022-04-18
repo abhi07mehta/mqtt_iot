@@ -16,7 +16,7 @@ const Publisher = ({ publish, connectStatus })=>{
     return(
         <div>
             <h2>
-                this is the Publisher
+                This is the Publisher
             </h2>
            <Form>
            <Form.Group className="mb-3" controlId="form1">

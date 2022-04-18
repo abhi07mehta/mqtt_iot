@@ -12,7 +12,7 @@ const Messages = ({ payload, subscribedTopic })=>{
     return(
         <div>
             <h2>
-                message will display here
+                Message will display here
             </h2>
             {messages.map((m, index) => (
         <>
